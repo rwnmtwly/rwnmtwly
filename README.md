@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**rwnmtwly/rwnmtwly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rwnmtwly/rwnmtwly![nyan__cat](https://user-images.githubusercontent.com/120096605/222795854-cb08b67c-0876-4b35-a677-6a68c6d7515b.gif)
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
