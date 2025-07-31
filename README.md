@@ -1,19 +1,68 @@
-### Hi :)
+# 👋 Hi, I'm Rawan Elnaggar
+**Computer and Systems Engineer** | Fresh Graduate from Zagazig University  
+Passionate about backend development and building scalable systems.
 
-![nyan__cat](https://user-images.githubusercontent.com/120096605/222796098-56ed22b0-54d2-4e80-8319-7ab081ae8f02.gif)
+📫 **Contact**:  
+[![Email](https://img.shields.io/badge/-rawan.elnaggar@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rawan.elnaggar@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawan-elnaggar-680358254/)
 
-<!--
-**rwnmtwly/rwnmtwly!
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Bachelor of Engineering in Computer and Systems Engineering**  
+Faculty of Engineering – Zagazig University | 2020 – 2025  
+
+---
+
+## 💻 Experience
+
+### 🔧 IEEE CS Zagazig Student Branch | Backend Developer
+*(Oct 2023 – Oct 2024)*  
+- Built full-stack applications using **PHP, Laravel, Python, Django, and PostgreSQL**
+- Developed:
+  - � Gym Management System (PostgreSQL backend)
+  - 🛒 E-commerce platform (PHP & CSS)
+  - 💼 Jobs Platform (Laravel)
+  - 🎓 Collaborative study platform with real-time messaging
+- Solved algorithmic problems in C++/Python
+
+### 🤖 IEEE WIE & Zigzag Club | Robotics Track
+*(2022 – 2023)*  
+- Developed Arduino-based robotics projects
+- Created:
+  - 🎮 Guess a Number game
+  - 🧮 Student Counter system
+- Studied CS50 and electronics fundamentals
+
+---
+
+## 🚀 Graduation Project
+### **AINO – No-Code AI Model Builder**  
+*(Team Member – Community & Blog Systems)*  
+- Designed/implemented **Reddit-style community forum** with:
+  - Topic-based groups
+  - Post interactions (upvotes/downvotes)
+  - Threaded comment system
+- Built **Medium-inspired blog platform** for AI tutorials
+
+
+---
+
+## 🛠️ Technical Skills
+| **Category**       | **Technologies**                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| Languages          | C++, Python, PHP, SQL, HTML/CSS                                                  |
+| Frameworks & Tools | Django, Laravel, PostgreSQL, Git/GitHub, Bootstrap                               |
+| Concepts           | OOP, REST APIs, MVC, Database Design, Version Control (Git)                     |
+| Soft Skills        | Team Collaboration, Technical Research, Problem Solving, Agile Development       |
+
+---
+
+## 🔭 Current Focus
+- Expanding knowledge in backend development 
+
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rwnmtwly&color=blueviolet)
